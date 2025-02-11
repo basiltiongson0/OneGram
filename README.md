@@ -15,17 +15,18 @@
 - Connect with others of similar interests with "Communities"
     - Find others who are into the same things as you do and view all of their related posts in one space
 
-## Development/Technology/Resources
-- Front-end:
-- Back-end:
-- Other/Misc.: 
 
 ## Instructions for Running
-(WIP)
+Necessary installs:
+
+-pip install flask
+-pip install flask-cors
+-pip install firebase-admin
+
 
 ## Project Team
 - Julia Bowman (Team Lead, Front-end, Conceptualization)
-- Basil Tiongson (Back-end, Server Management/DevOps)
+- Basil Tiongson (Front-end, Back-end, Server Management/DevOps)
 - Eduardo Murillo (Git Lead, Back-end, Server Management/DevOps)
 - Jason Carmona (Project Management, Creative Design, QA)
 - Carol Aguilar Torres (Creative Design, Communication, Documentation & Research)
